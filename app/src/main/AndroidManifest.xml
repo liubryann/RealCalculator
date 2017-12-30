@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.liu.bryan.realcalculator">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/calc"
+        android:label="iCalculator"
+        android:roundIcon="@mipmap/calc"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+        >
+        <activity
+            android:screenOrientation="portrait"
+            android:name="v2.liu.bryan.realcalculator.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
