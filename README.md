@@ -2,10 +2,10 @@
 
 This is a calculator built in Android Studio with an iOS 10 inspired UI and function.
 It is published on the Google Play Store https://play.google.com/store/apps/details?id=v2.liu.bryan.realcalculator&hl=en 
-Current analytics show 30K active users.
+
 Note: only supports Android devices. 
 
-Current analytics show that this app fills a small niche in the app market with it being most popular in developing countries where most users are still running a low version OS such as kit kat. 
+Current analytics show 30K active users and that this app fills a small niche in the app market with it being most popular in developing countries where most users are still running a low version of Android OS such as KitKat. 
 
 It has handy features such as:
 
