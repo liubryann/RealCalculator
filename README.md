@@ -1,4 +1,4 @@
-# RealCalculator
+# Affordable Calculator
 
 This is a calculator built in Android Studio with an iOS 10 inspired UI and function.
 It is published on the Google Play Store https://play.google.com/store/apps/details?id=v2.liu.bryan.realcalculator&hl=en 
