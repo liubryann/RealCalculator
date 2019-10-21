@@ -1,6 +1,6 @@
 # Affordable Calculator
 
-Disclaimer: I was 17 when I built this and had no knowledge of good coding practices and looking back, this project is completely unmaintainable and indecipherable even to me, hindering my ability to update it in response to user feedback. The showcase of this project is more of a representation of my curiosity and ambition to learn and create a sucessful final product rather than the actual code itself. 
+Disclaimer: I was 17 when I built this and had no knowledge of good coding practices and design. The showcase of this project is more of a representation of my curiosity and ambition to learn and create a sucessful final product rather than the actual code itself. 
 
 This is a calculator built in Android Studio with an iOS 10 inspired UI and function.
 It is published on the Google Play Store https://play.google.com/store/apps/details?id=v2.liu.bryan.realcalculator&hl=en 
